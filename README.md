@@ -1,10 +1,10 @@
 # CurrencyConverter
 
-Run Prjoect 
-Use swagger To Test APIs 
-Call UpdateConfiguration For Add Currency Paths
-Call Convert And Enjoy!
-
+Run Prjoect <br />
+Use swagger To Test APIs <br />
+Call UpdateConfiguration For Add Currency Paths<br />
+Call Convert And Enjoy!<br />
+<br /><br />
 For All Test Option Run Tests
-
+<br /><br />
 For Test Lock unComment "CurrencyConverterServices" Line 21
